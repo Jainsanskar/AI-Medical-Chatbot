@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MediBot: AI Medical Chatbot using RAG
 
 MediBot is an AI-powered chatbot designed for medical document interaction using Retrieval-Augmented Generation (RAG). 
@@ -89,3 +90,6 @@ The system integrates modern AI frameworks and tools to provide a modular pipeli
 Feedback and contributions are welcome!  
 
  
+=======
+# AI-Medical-Chatbot
+>>>>>>> 01465679eb2f9a4e6748e2a600bbec213d563e83
